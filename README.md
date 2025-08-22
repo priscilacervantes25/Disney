@@ -10,22 +10,18 @@ Disneyland es un parque temático creado por Walt Disney Es considerado **el lug
 ## Historia
 El 17 de julio de 1955 abrió sus puertas Disneyland, el primer parque temático de la “fábrica de sueños” y el único que se construyó bajo la supervisión del propio Walt Disney, en la ciudad de Anaheim, Californiana.
 
-- 🏰 **Castillo de la Bella Durmiente**  
-- 🎢 **Space Mountain**  
-- 🚀 **Star Wars: Galaxy’s Edge**  
-- 🏞️ **Adventureland**  
-- 🐭 **Encuentros con personajes Disney**
 
-  ## 🎡 Atracciones de Disneyland
+
+  ## 🎡 Atracción principal de Disneyland/Mis favoritos
 
 | Atracción                    | Tipo            | Emoji | Descripción breve |
 |-------------------------------|-----------------|-------|------------------|
-| 🏰 Castillo de la Bella Durmiente | Icono principal | 🏰    | El símbolo de Disneyland, donde inicia la magia ✨ |
-| 🎢 Space Mountain             | Montaña rusa    | 🚀    | Un viaje espacial a toda velocidad entre las estrellas 🌌 |
-| 🎠 King Arthur Carrousel      | Carrusel        | 🎠    | Un clásico carrusel con caballos encantados 🐎 |
-| 🌴 Adventureland              | Zona temática   | 🗺️    | Aventuras inspiradas en la jungla y exploradores 🐒 |
-| 🚤 Jungle Cruise              | Paseo en barco  | 🛶    | Un safari acuático lleno de sorpresas y humor 😂 |
-| 🌌 Star Wars: Galaxy’s Edge   | Mundo temático  | 🌌    | Vive la experiencia de Star Wars con naves y personajes icónicos ⚔️ |
+|  Castillo de la Bella Durmiente | Icono principal | 🏰    | El símbolo de Disneyland principal |
+|  Space Mountain             | Montaña rusa    | 🚀    | Aborda una nave espacial a velocidades impresionantes  |
+|  Pirates of the Caribbean      | Recorrido en lancha        |  🏴‍☠️   | Un clásico, navega por las cuevas donde los piratas están de parranda |
+|  Indiana Jones Adventure              | Jeep en movimiento   | 🗺️🌴    | Aborda el transporte del ejército que entra a un inmenso templo antiguo  |
+|  Big Thunder Mountain Railroad              | Tren y montaña rusa  |  ⛰️   | Súbete a un tren que se soltó de una mina y corre entre cañones desérticos  |
+|  Star Wars: Galaxy’s Edge   | Mundo temático  | 🌌    | Vive la experiencia de Star Wars con naves y personajes icónicos ⚔ |
 
 
 ## Fun facts
