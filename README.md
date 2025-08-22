@@ -48,7 +48,7 @@ El 17 de julio de 1955 abrió sus puertas Disneyland, el primer parque temático
 - 🎭 Cuando abrió sus puertas contaba con 35 atracciones y exhibiciones en total. De esas atracciones originales, 13 siguen funcionando en la actualidad.
 
 
-![Instagram Follow](https://img.shields.io/twitter/follow/@disneyland?style=social)
+![Instagram Follow](https://img.shields.io/instagram/follow/disneyland?style=social)
 
 Fuente.https://historia.nationalgeographic.com.es/foto-del-dia/reino-suenos_15593, https://disneyland.disney.go.com/es-mx/attractions/
 
