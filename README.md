@@ -2,7 +2,7 @@
 Disneyland es un parque temático creado por Walt Disney Es considerado **el lugar más feliz del mundo** 🌍💫.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sleeping_Beauty_Castle_Disneyland_Anaheim_2019.jpg" width="400" alt="Castillo Disneyland"/>
+  <img src="https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1349/464/75/dam/disneyland/attractions/disneyland/sleeping-beauty-castle-walkthrough/sleeping-beauty-castle-exterior-16x9.jpg?1750971416689"/>
 </p>
 
 
@@ -27,8 +27,8 @@ El 17 de julio de 1955 abrió sus puertas Disneyland, el primer parque temático
 ## Fun facts
 
 porcentajes de hombres/mujeres
-![17.3mill anuales](https://img.shields.io/badge/Regresión-60%25-blue)
-![47,000 al día](https://img.shields.io/badge/Clasificación-40%25-green)
+![17.3mill anuales](https://img.shields.io/badge/Anual-17.3mill25-blue)
+![47,000 al día](https://img.shields.io/badge/Diarios-47k25-green)
 
 
 Fuente.https://historia.nationalgeographic.com.es/foto-del-dia/reino-suenos_15593
