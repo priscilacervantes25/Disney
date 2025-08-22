@@ -46,6 +46,7 @@ El 17 de julio de 1955 abrió sus puertas Disneyland, el primer parque temático
   
 - 🐭 Hay cientos de "Hidden Mickeys" escondidos en decoraciones, mosaicos, atracciones y hasta en las sombras, es una **actividad** divertida y dinámica para los invitados.
 - 🎭 Cuando abrió sus puertas contaba con 35 atracciones y exhibiciones en total. De esas atracciones originales, 13 siguen funcionando en la actualidad.
+- Temporada alta en los meses de Marzo-Abril, Junio-Agosto y Diciembre. **VS.** Temproada baja en los meses de Enero-Marzo y Septiembre-Noviembre.
 
 ---
 
